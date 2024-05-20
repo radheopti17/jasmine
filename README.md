@@ -22,3 +22,9 @@
 - GPT Integration
   - Search Bar
   - Movie Suggestions
+
+# Learning
+
+- Authentication (Firebase)
+- GPT integration
+- Handle Forms
