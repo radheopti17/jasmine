@@ -1,10 +1,13 @@
 import React from "react";
-import logo from "../utils/logo.svg";
 
 const Header = () => {
   return (
-    <div>
-      <img src={logo} alt="logo" />
+    <div className="absolute z-10 px-12 py-2 bg-gradient-to-b from-black">
+      <img
+        className="w-48"
+        src="https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png"
+        alt="logo"
+      />
     </div>
   );
 };
